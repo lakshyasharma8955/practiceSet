@@ -1,11 +1,18 @@
 body
 {
+<<<<<<< HEAD
     background-color: lightcoral;
+=======
+    background-color: lightgreen;
+>>>>>>> bug1
 }
 h1
 {
     color: darkgoldenrod;
+<<<<<<< HEAD
     text-decoration: solid;
+=======
+>>>>>>> bug1
 }
 p
 {
